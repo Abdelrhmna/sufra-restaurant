@@ -686,17 +686,3 @@ a {
 }
 .booking-form {
     direction: rtl;
-}
-
-.contact-info-grid {
-    margin-bottom: 60px;
-}
-
-.footer-col p, .footer-col h4 {
-    text-align: right;
-}
-
-.social-links {
-    text-align: right;
-}
-
