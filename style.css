@@ -233,7 +233,7 @@ a {
 .stats-section {
     padding: 100px 0;
     position: relative;
-    background-image: url('/img/stats-bg.jpg');
+    background-image: url('img/stats-bg.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; 
@@ -699,3 +699,4 @@ a {
 .social-links {
     text-align: right;
 }
+
